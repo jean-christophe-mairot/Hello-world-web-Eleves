@@ -88,7 +88,7 @@ Structure générale d'une page:
 
 💡 CONCEPTS CLÉ:
 
-- String Templates Kotlin (${}):
+- String Templates Kotlin ($ {}):
 Les variables sont interpolées directement dans les chaînes HTML
 Exemple: ${navbar.render()} insère le HTML généré par la navbar
 
