@@ -151,12 +151,14 @@ PHASE 4 - MISE EN FORME ET STYLE
 ---
 
 PHASE 5 - FONCTIONNALITÉS AVANCÉES
+
 ☐ Tâche 5.1: Ajouter la validation du formulaire /contact
 ☐ Tâche 5.2: Implémenter la gestion du formulaire (POST)
 ☐ Tâche 5.3: Créer une page d'erreur 404
 ☐ Tâche 5.4: Ajouter un logging des requêtes
 
 PHASE 6 - REFACTORING ET OPTIMISATION
+
 ☐ Tâche 6.1: Extraire les templates HTML dans des fichiers séparés
 ☐ Tâche 6.2: Créer un gestionnaire de routes centralisé
 ☐ Tâche 6.3: Optimiser le code (DRY, SOLID principles)
