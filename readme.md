@@ -142,6 +142,10 @@ PHASE 4 - MISE EN FORME ET STYLE
 ☐ Tâche 4.3: Styliser le footer (background, texte)
 ☐ Tâche 4.4: Ajouter des animations Bootstrap (hover, transitions)
 
+---
+## ---- DANS UN FUTUR PROCHE ---
+---
+
 PHASE 5 - FONCTIONNALITÉS AVANCÉES
 ☐ Tâche 5.1: Ajouter la validation du formulaire /contact
 ☐ Tâche 5.2: Implémenter la gestion du formulaire (POST)
