@@ -120,23 +120,27 @@ Envoie le HTML au navigateur avec le bon type de contenu
 
 
 PHASE 1 - STRUCTURE DE BASE
+
 ☐ Tâche 1.1: Créer les classes Bootstrap (Card, Navbar, Footer, Container)
 ☐ Tâche 1.2: Implémenter la méthode render() pour chaque classe
 ☐ Tâche 1.3: Tester le rendu HTML de chaque composant isolément
 
 PHASE 2 - SERVEUR HTTP
+
 ☐ Tâche 2.1: Initialiser le serveur HTTP sur le port 8080
 ☐ Tâche 2.2: Créer la route "/" (accueil) avec 6 cartes
 ☐ Tâche 2.3: Tester la route "/" dans le navigateur
 ☐ Tâche 2.4: Vérifier le responsive design Bootstrap
 
 PHASE 3 - PAGES SUPPLÉMENTAIRES
+
 ☐ Tâche 3.1: Créer la route "/about" avec description
 ☐ Tâche 3.2: Créer la route "/contact" avec formulaire
 ☐ Tâche 3.3: Tester la navigation entre les pages
 ☐ Tâche 3.4: Vérifier les liens de la navbar
 
 PHASE 4 - MISE EN FORME ET STYLE
+
 ☐ Tâche 4.1: Améliorer le CSS des cartes (couleurs, ombres)
 ☐ Tâche 4.2: Personnaliser la navbar (couleurs, logo)
 ☐ Tâche 4.3: Styliser le footer (background, texte)
