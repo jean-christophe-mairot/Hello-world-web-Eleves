@@ -34,9 +34,9 @@ FICHIERS À PRODUIRE:
 - Propriétés: elements (liste des éléments HTML)
 - Méthode render() : génère le HTML du conteneur avec grille responsive
 
-============================================
+---
 LOGIQUE DE CONSTRUCTION DES ÉLÉMENTS
-============================================
+---
 
 🎨 PATTERN DE RENDU (Render Pattern):
 Chaque classe Bootstrap possède une méthode render() qui retourne du HTML.
@@ -108,17 +108,16 @@ Permet une transformation élégante et fonctionnelle
 Gère le serveur HTTP et les requêtes/réponses
 Envoie le HTML au navigateur avec le bon type de contenu
 
-============================================
+---
 
 
 
 
-# ============================================
 ## TP - SERVEUR WEB EN KOTLIN AVEC BOOTSTRAP
-# ============================================
+
 
 ## 📋 PLAN DE DÉVELOPPEMENT PAR TÂCHES:
-# ============================================
+
 
 PHASE 1 - STRUCTURE DE BASE
 ☐ Tâche 1.1: Créer les classes Bootstrap (Card, Navbar, Footer, Container)
