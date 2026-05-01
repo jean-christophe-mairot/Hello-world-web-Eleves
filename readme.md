@@ -88,23 +88,23 @@ Structure générale d'une page:
 
 💡 CONCEPTS CLÉ:
 
-▸ String Templates Kotlin (${}):
+- String Templates Kotlin (${}):
 Les variables sont interpolées directement dans les chaînes HTML
 Exemple: ${navbar.render()} insère le HTML généré par la navbar
 
-▸ trimIndent():
+- trimIndent():
 Supprime les indentations inutiles dans les chaînes multi-lignes
 Produit un HTML plus propre sans espaces supplémentaires
 
-▸ joinToString():
+- joinToString():
 Utilisé pour transformer une liste en chaîne HTML
 Exemple: links.joinToString("\n") crée les items de la navbar
 
-▸ Lambda Expressions:
+- Lambda Expressions:
 cards.map { card -> ... } transforme chaque carte en élément HTML
 Permet une transformation élégante et fonctionnelle
 
-▸ HttpServer/HttpExchange:
+- HttpServer/HttpExchange:
 Gère le serveur HTTP et les requêtes/réponses
 Envoie le HTML au navigateur avec le bon type de contenu
 
